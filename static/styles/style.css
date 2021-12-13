@@ -1,0 +1,68 @@
+* {
+  background-color: black;
+}
+
+.app {
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+.Header {
+  font-size: 32px;
+  padding-bottom: 24px;
+}
+
+.PlayerChild {
+  display: inline-block;
+  width: 49.5%;
+}
+
+.Image {
+  text-align: center;
+}
+
+.Details h2 {
+  margin: auto;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.Details h3 {
+  margin: auto;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.Controls h3 {
+  margin: auto;
+  padding-top: 24px;
+  padding-bottom: 12px;
+}
+
+.AudioPlayer audio {
+  width: 480px;
+}
+.ButtonChild {
+  margin: auto;
+  padding-top: 36px;
+  padding-bottom: 12px;
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+}
+
+.ButtonChild button {
+  color: black;
+  background-color: white;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 6px;
+  font-size: 16px;
+  width: 228px;
+}
+
+.ButtonChild button:hover {
+  color: white;
+  background-color: black;
+  font-size: 18px;
+}

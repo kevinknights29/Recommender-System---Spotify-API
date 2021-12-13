@@ -3,26 +3,69 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../static/styles/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
+      rel="stylesheet"
+    />
     <title>Document</title>
   </head>
   <body>
-    <div>
-      <h1 align="center">Track Recommender</h1>
+    <div class="App">
+      <div class="Header">
+        <h1 align="center">Track Recommender</h1>
+      </div>
+      <div class="Player">
+        <div class="PlayerChild">
+          <div class="Image">
+            <img
+              src="{{tracks[index]['album_img_url']}}"
+              alt="Album Cover Image"
+            />
+          </div>
+        </div>
+        <div class="PlayerChild">
+          <div class="Info">
+            <div class="Details">
+              <h2>Track: {{tracks[index]['name']}}</h2>
+              <h3>Artist: {{tracks[index]['artist']}}</h3>
+              <h3>Album: {{tracks[index]['album']}}</h3>
+              <h3>Genre: {{tracks[index]['genre']}}</h3>
+            </div>
+            <div class="Controls">
+              <h3>Track Preview:</h3>
+              <div class="AudioPlayer">
+                <audio controls>
+                  <source src="{{tracks[index]['preview_url']}}" />
+                </audio>
+              </div>
+              <div class="Buttons">
+                <div class="ButtonChild">
+                  <button onclick="setIndex(index)">Next Recommendation</button>
+                </div>
+                <div class="ButtonChild">
+                  <button>New Recommendations</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-    <div>
-      <h2>Track: {{track['name']}}</h2>
-      <img src="{{track['album_img_url']}}" alt="Album Cover Image" />
-      <h3>Artist: {{track['artist']}}</h3>
-      <h3>Album: {{track['album']}}</h3>
-      <h3>Genre: {{track['genre']}}</h3>
-    </div>
-    <div>
-      <h3>Preview</h3>
-      <audio controls>
-        <source src="{{track['preview_url']}}" />
-      </audio>
-      <button>Next Recommendation</button>
-      <button>Generate New Recommendations</button>
-    </div>
+
+    <script>
+      function setIndex(index) {
+        if (index == 10) {
+          index = 0;
+        } else {
+          index += 1;
+        }
+        console.log(index);
+
+        return index;
+      }
+    </script>
   </body>
 </html>

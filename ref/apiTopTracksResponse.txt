@@ -1,0 +1,972 @@
+{
+  'tracks': [
+    {
+      'album': {
+        'album_type': 'single',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of'
+            },
+            'href': 'https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of',
+            'id': '0LyfQWJT6nXafLPZqxe9Of',
+            'name': 'Various Artists',
+            'type': 'artist',
+            'uri': 'spotify:artist:0LyfQWJT6nXafLPZqxe9Of'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/7wTMeQOjmB44S2NUmmH5Gy'
+        },
+        'href': 'https://api.spotify.com/v1/albums/7wTMeQOjmB44S2NUmmH5Gy',
+        'id': '7wTMeQOjmB44S2NUmmH5Gy',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b27332c253e9595a39daf7d5180e',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e0232c253e9595a39daf7d5180e',
+            'width': 300
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d0000485132c253e9595a39daf7d5180e',
+            'width': 64
+          }
+        ],
+        'name': 'Los Borbones Son Unos Ladrones',
+        'release_date': '2018-04-09',
+        'release_date_precision': 'day',
+        'total_tracks': 1,
+        'type': 'album',
+        'uri': 'spotify:album:7wTMeQOjmB44S2NUmmH5Gy'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/41tQApRtxMjO3t4EIxdmfx'
+          },
+          'href': 'https://api.spotify.com/v1/artists/41tQApRtxMjO3t4EIxdmfx',
+          'id': '41tQApRtxMjO3t4EIxdmfx',
+          'name': 'FRANK T',
+          'type': 'artist',
+          'uri': 'spotify:artist:41tQApRtxMjO3t4EIxdmfx'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG'
+          },
+          'href': 'https://api.spotify.com/v1/artists/451DVjaBuGYfvDfvG9MxaG',
+          'id': '451DVjaBuGYfvDfvG9MxaG',
+          'name': 'Rapsusklei',
+          'type': 'artist',
+          'uri': 'spotify:artist:451DVjaBuGYfvDfvG9MxaG'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW'
+          },
+          'href': 'https://api.spotify.com/v1/artists/4pFUriuYqqAmBCvqF9o6LW',
+          'id': '4pFUriuYqqAmBCvqF9o6LW',
+          'name': 'Sara Hebe',
+          'type': 'artist',
+          'uri': 'spotify:artist:4pFUriuYqqAmBCvqF9o6LW'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK'
+          },
+          'href': 'https://api.spotify.com/v1/artists/1O4hqQz2nV0jrlF9VEFBNK',
+          'id': '1O4hqQz2nV0jrlF9VEFBNK',
+          'name': 'Def Con Dos',
+          'type': 'artist',
+          'uri': 'spotify:artist:1O4hqQz2nV0jrlF9VEFBNK'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5x7QnRNtTCMmMQGvOZFTQG'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5x7QnRNtTCMmMQGvOZFTQG',
+          'id': '5x7QnRNtTCMmMQGvOZFTQG',
+          'name': 'Tribade',
+          'type': 'artist',
+          'uri': 'spotify:artist:5x7QnRNtTCMmMQGvOZFTQG'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/036IY6CphXdsPiqIXdqvCP'
+          },
+          'href': 'https://api.spotify.com/v1/artists/036IY6CphXdsPiqIXdqvCP',
+          'id': '036IY6CphXdsPiqIXdqvCP',
+          'name': 'La Raíz',
+          'type': 'artist',
+          'uri': 'spotify:artist:036IY6CphXdsPiqIXdqvCP'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/4SFufo8OG7wyneSSj2F5UY'
+          },
+          'href': 'https://api.spotify.com/v1/artists/4SFufo8OG7wyneSSj2F5UY',
+          'id': '4SFufo8OG7wyneSSj2F5UY',
+          'name': 'Ira',
+          'type': 'artist',
+          'uri': 'spotify:artist:4SFufo8OG7wyneSSj2F5UY'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/2mjC7Pmu2NA6dZ1ZIYoLLu'
+          },
+          'href': 'https://api.spotify.com/v1/artists/2mjC7Pmu2NA6dZ1ZIYoLLu',
+          'id': '2mjC7Pmu2NA6dZ1ZIYoLLu',
+          'name': 'Los Chikos del Maiz',
+          'type': 'artist',
+          'uri': 'spotify:artist:2mjC7Pmu2NA6dZ1ZIYoLLu'
+        },font-size: 16px;
+            'spotify': 'https://open.spotify.com/artist/6DikI4mITBIdxW5NTQVUi2'
+          },
+          'href': 'https://api.spotify.com/v1/artists/6DikI4mITBIdxW5NTQVUi2',
+          'id': '6DikI4mITBIdxW5NTQVUi2',
+          'name': 'Juan Pablo Balcazar',
+          'type': 'artist',
+          'uri': 'spotify:artist:6DikI4mITBIdxW5NTQVUi2'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/1d2tVLWZAh4W9GHe9WYMLd'
+          },
+          'href': 'https://api.spotify.com/v1/artists/1d2tVLWZAh4W9GHe9WYMLd',
+          'id': '1d2tVLWZAh4W9GHe9WYMLd',
+          'name': 'Roger Martinez',
+          'type': 'artist',
+          'uri': 'spotify:artist:1d2tVLWZAh4W9GHe9WYMLd'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/6A4rDgc9PMMl9gg12ZIMs4'
+          },
+          'href': 'https://api.spotify.com/v1/artists/6A4rDgc9PMMl9gg12ZIMs4',
+          'id': '6A4rDgc9PMMl9gg12ZIMs4',
+          'name': 'Antonio Torres',
+          'type': 'artist',
+          'uri': 'spotify:artist:6A4rDgc9PMMl9gg12ZIMs4'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/7yMJSfFJgb2YFBAKSckG4z'
+          },
+          'href': 'https://api.spotify.com/v1/artists/7yMJSfFJgb2YFBAKSckG4z',
+          'id': '7yMJSfFJgb2YFBAKSckG4z',
+          'name': 'JazzWoman',
+          'type': 'artist',
+          'uri': 'spotify:artist:7yMJSfFJgb2YFBAKSckG4z'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 290389,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'QM4TW1826027'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/7BXTCiQvCcfZyFtQ3hXQdh'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/7BXTCiQvCcfZyFtQ3hXQdh',
+      'id': '7BXTCiQvCcfZyFtQ3hXQdh',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Los Borbones Son Unos Ladrones',
+      'popularity': 45,
+      'preview_url': 'https://p.scdn.co/mp3-preview/f446701b89881d9879c76d562549b7e3ff91be8c?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 1,
+      'type': 'track',
+      'uri': 'spotify:track:7BXTCiQvCcfZyFtQ3hXQdh'
+    },
+    {
+      'album': {
+        'album_type': 'album',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+            },
+            'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+            'id': '5t9ChGEQOzEA3gxWtXEw48',
+            'name': 'Elphomega',
+            'type': 'artist',
+            'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/2Ppv8YROLkQ2IcmjMCytS0'
+        },
+        'href': 'https://api.spotify.com/v1/albums/2Ppv8YROLkQ2IcmjMCytS0',
+        'id': '2Ppv8YROLkQ2IcmjMCytS0',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b273a7810ebe026261b68cb194c8',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e02a7810ebe026261b68cb194c8',
+            'width': 300
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d00004851a7810ebe026261b68cb194c8',
+            'width': 64
+          }
+        ],
+        'name': 'El testimonio Libra',
+        'release_date': '2007-04-17',
+        'release_date_precision': 'day',
+        'total_tracks': 18,
+        'type': 'album',
+        'uri': 'spotify:album:2Ppv8YROLkQ2IcmjMCytS0'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY'
+          },
+          'href': 'https://api.spotify.com/v1/artists/1DH9RJ0xBVje6gQmK3LWUY',
+          'id': '1DH9RJ0xBVje6gQmK3LWUY',
+          'name': 'Violadores Del Verso',
+          'type': 'artist',
+          'uri': 'spotify:artist:1DH9RJ0xBVje6gQmK3LWUY'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 303720,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'ES6920600612'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/0g4KZyslFQY6N0miT5cVxD'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/0g4KZyslFQY6N0miT5cVxD',
+      'id': '0g4KZyslFQY6N0miT5cVxD',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Fuego camina conmigo (feat. Violadores del verso)',
+      'popularity': 43,
+      'preview_url': 'https://p.scdn.co/mp3-preview/6d02905a9defbf279fe1af17b64ea98735ea8783?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 9,
+      'type': 'track',
+      'uri': 'spotify:track:0g4KZyslFQY6N0miT5cVxD'
+    },
+    {
+      'album': {
+        'album_type': 'single',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux'
+            },
+            'href': 'https://api.spotify.com/v1/artists/7GmXwGXJSsmWTkCyk5Twux',
+            'id': '7GmXwGXJSsmWTkCyk5Twux',
+            'name': 'Kase.O',
+            'type': 'artist',
+            'uri': 'spotify:artist:7GmXwGXJSsmWTkCyk5Twux'
+          },
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+            },
+            'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+            'id': '5t9ChGEQOzEA3gxWtXEw48',
+            'name': 'Elphomega',
+            'type': 'artist',
+            'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+          },
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/6zJkLYY6jdwLbRCo3Acc3C'
+            },
+            'href': 'https://api.spotify.com/v1/artists/6zJkLYY6jdwLbRCo3Acc3C',
+            'id': '6zJkLYY6jdwLbRCo3Acc3C',
+            'name': 'R De Rumba',
+            'type': 'artist',
+            'uri': 'spotify:artist:6zJkLYY6jdwLbRCo3Acc3C'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/3OHiIB0GcgumKdcmBQjJvn'
+        },
+        'href': 'https://api.spotify.com/v1/albums/3OHiIB0GcgumKdcmBQjJvn',
+        'id': '3OHiIB0GcgumKdcmBQjJvn',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b2738e1391e04454fda8a02d8cad',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e028e1391e04454fda8a02d8cad',
+            'width': 300
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d000048518e1391e04454fda8a02d8cad',
+            'width': 64
+          }
+        ],
+        'name': 'Orígenes Secretos (B.S.O. Orígenes Secretos)',
+        'release_date': '2020-08-28',
+        'release_date_precision': 'day',
+        'total_tracks': 1,
+        'type': 'album',
+        'uri': 'spotify:album:3OHiIB0GcgumKdcmBQjJvn'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux'
+          },
+          'href': 'https://api.spotify.com/v1/artists/7GmXwGXJSsmWTkCyk5Twux',
+          'id': '7GmXwGXJSsmWTkCyk5Twux',
+          'name': 'Kase.O',
+          'type': 'artist',
+          'uri': 'spotify:artist:7GmXwGXJSsmWTkCyk5Twux'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/6zJkLYY6jdwLbRCo3Acc3C'
+          },
+          'href': 'https://api.spotify.com/v1/artists/6zJkLYY6jdwLbRCo3Acc3C',
+          'id': '6zJkLYY6jdwLbRCo3Acc3C',
+          'name': 'R De Rumba',
+          'type': 'artist',
+          'uri': 'spotify:artist:6zJkLYY6jdwLbRCo3Acc3C'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 239972,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'ES71G2039886'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/7d3LDnzBB6eqQmvt33Ugyo'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/7d3LDnzBB6eqQmvt33Ugyo',
+      'id': '7d3LDnzBB6eqQmvt33Ugyo',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Orígenes Secretos (B.S.O. Orígenes Secretos)',
+      'popularity': 39,
+      'preview_url': 'https://p.scdn.co/mp3-preview/a6e5138d6bed4b6c8fa41196e75143c71375d1b1?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 1,
+      'type': 'track',
+      'uri': 'spotify:track:7d3LDnzBB6eqQmvt33Ugyo'
+    },
+    {
+      'album': {
+        'album_type': 'album',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+            },
+            'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+            'id': '5t9ChGEQOzEA3gxWtXEw48',
+            'name': 'Elphomega',
+            'type': 'artist',
+            'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/32HzePZsOJ6gWR6MXB5gBQ'
+        },
+        'href': 'https://api.spotify.com/v1/albums/32HzePZsOJ6gWR6MXB5gBQ',
+        'id': '32HzePZsOJ6gWR6MXB5gBQ',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b273c7c678df37ad4d1cf0043947',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e02c7c678df37ad4d1cf0043947',
+            'width': 300font-size: 16px;
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d00004851c7c678df37ad4d1cf0043947',
+            'width': 64
+          }
+        ],
+        'name': 'Phantom Pop',
+        'release_date': '2011-03-22',
+        'release_date_precision': 'day',
+        'total_tracks': 14,
+        'type': 'album',
+        'uri': 'spotify:album:32HzePZsOJ6gWR6MXB5gBQ'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 195866,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'ES6081140501'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/4WT92JeiPDnktqlf7Ueqwh'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/4WT92JeiPDnktqlf7Ueqwh',
+      'id': '4WT92JeiPDnktqlf7Ueqwh',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Sol de Sábado, Lluvia de Domingo',
+      'popularity': 30,
+      'preview_url': 'https://p.scdn.co/mp3-preview/325f44994439962b5c67a049d72d927faadc31b7?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 1,
+      'type': 'track',
+      'uri': 'spotify:track:4WT92JeiPDnktqlf7Ueqwh'
+    },
+    {
+      'album': {
+        'album_type': 'album',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+            },
+            'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+            'id': '5t9ChGEQOzEA3gxWtXEw48',
+            'name': 'Elphomega',
+            'type': 'artist',
+            'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/32HzePZsOJ6gWR6MXB5gBQ'
+        },
+        'href': 'https://api.spotify.com/v1/albums/32HzePZsOJ6gWR6MXB5gBQ',
+        'id': '32HzePZsOJ6gWR6MXB5gBQ',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b273c7c678df37ad4d1cf0043947',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e02c7c678df37ad4d1cf0043947',
+            'width': 300
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d00004851c7c678df37ad4d1cf0043947',
+            'width': 64
+          }
+        ],
+        'name': 'Phantom Pop',
+        'release_date': '2011-03-22',
+        'release_date_precision': 'day',
+        'total_tracks': 14,
+        'type': 'album',
+        'uri': 'spotify:album:32HzePZsOJ6gWR6MXB5gBQ'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/7yI6f6KLTIotYOuspbjPMP'
+          },
+          'href': 'https://api.spotify.com/v1/artists/7yI6f6KLTIotYOuspbjPMP',
+          'id': '7yI6f6KLTIotYOuspbjPMP',
+          'name': 'Shabu',
+          'type': 'artist',
+          'uri': 'spotify:artist:7yI6f6KLTIotYOuspbjPMP'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 267346,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'ES6081140506'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/6NeoEbHAfOTcOOOtpMio2s'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/6NeoEbHAfOTcOOOtpMio2s',
+      'id': '6NeoEbHAfOTcOOOtpMio2s',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Stardust',
+      'popularity': 26,
+      'preview_url': 'https://p.scdn.co/mp3-preview/631907cc7cc09a2c369ec5ebfbe6a14df68f8c01?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 6,
+      'type': 'track',
+      'uri': 'spotify:track:6NeoEbHAfOTcOOOtpMio2s'
+    },
+    {
+      'album': {
+        'album_type': 'album',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+            },
+            'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+            'id': '5t9ChGEQOzEA3gxWtXEw48',
+            'name': 'Elphomega',
+            'type': 'artist',
+            'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/2Ppv8YROLkQ2IcmjMCytS0'
+        },
+        'href': 'https://api.spotify.com/v1/albums/2Ppv8YROLkQ2IcmjMCytS0',
+        'id': '2Ppv8YROLkQ2IcmjMCytS0',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b273a7810ebe026261b68cb194c8',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e02a7810ebe026261b68cb194c8',
+            'width': 300
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d00004851a7810ebe026261b68cb194c8',
+            'width': 64
+          }
+        ],
+        'name': 'El testimonio Libra',
+        'release_date': '2007-04-17',
+        'release_date_precision': 'day',
+        'total_tracks': 18,
+        'type': 'album',
+        'uri': 'spotify:album:2Ppv8YROLkQ2IcmjMCytS0'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 288200,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'ES6920600610'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/25tnDMhIE4zU2PpmsQdObj'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/25tnDMhIE4zU2PpmsQdObj',
+      'id': '25tnDMhIE4zU2PpmsQdObj',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Emergency',
+      'popularity': 22,
+      'preview_url': 'https://p.scdn.co/mp3-preview/67808b1d155d712066742846727b94490dc75708?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 7,
+      'type': 'track',
+      'uri': 'spotify:track:25tnDMhIE4zU2PpmsQdObj'
+    },
+    {
+      'album': {
+        'album_type': 'album',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+            },
+            'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+            'id': '5t9ChGEQOzEA3gxWtXEw48',
+            'name': 'Elphomega',
+            'type': 'artist',
+            'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/32HzePZsOJ6gWR6MXB5gBQ'
+        },
+        'href': 'https://api.spotify.com/v1/albums/32HzePZsOJ6gWR6MXB5gBQ',
+        'id': '32HzePZsOJ6gWR6MXB5gBQ',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b273c7c678df37ad4d1cf0043947',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e02c7c678df37ad4d1cf0043947',
+            'width': 300
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d00004851c7c678df37ad4d1cf0043947',
+            'width': 64
+          }
+        ],
+        'name': 'Phantom Pop',
+        'release_date': '2011-03-22',
+        'release_date_precision': 'day',
+        'total_tracks': 14,
+        'type': 'album',
+        'uri': 'spotify:album:32HzePZsOJ6gWR6MXB5gBQ'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 255000,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'ES6081140509'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/1bZIJFpnOZmllR6DXog3TN'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/1bZIJFpnOZmllR6DXog3TN',
+      'id': '1bZIJFpnOZmllR6DXog3TN',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Doppelgänger',
+      'popularity': 22,
+      'preview_url': 'https://p.scdn.co/mp3-preview/999fdcebabe6c8e36b43797aa91544574047b2d9?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 9,
+      'type': 'track',
+      'uri': 'spotify:track:1bZIJFpnOZmllR6DXog3TN'
+    },
+    {
+      'album': {
+        'album_type': 'album',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+            },
+            'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+            'id': '5t9ChGEQOzEA3gxWtXEw48',
+            'name': 'Elphomega',
+            'type': 'artist',
+            'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/6POz0ARKeOTTtCME6K1JaW'
+        },
+        'href': 'https://api.spotify.com/v1/albums/6POz0ARKeOTTtCME6K1JaW',
+        'id': '6POz0ARKeOTTtCME6K1JaW',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b273dd91ecd300ad00af9b21e6a9',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e02dd91ecd300ad00af9b21e6a9',
+            'width': 300
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d00004851dd91ecd300ad00af9b21e6a9',
+            'width': 64
+          }
+        ],
+        'name': 'Homogeddon',
+        'release_date': '2005-04-18',
+        'release_date_precision': 'day',
+        'total_tracks': 16,
+        'type': 'album',
+        'uri': 'spotify:album:6POz0ARKeOTTtCME6K1JaW'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5azraBlFHRsWPAJ5iGSReL'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5azraBlFHRsWPAJ5iGSReL',
+          'id': '5azraBlFHRsWPAJ5iGSReL',
+          'name': 'Hablando En Plata',
+          'type': 'artist',
+          'uri': 'spotify:artist:5azraBlFHRsWPAJ5iGSReL'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 334613,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'ES6920400221'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/1kDlSODlK4hKnMi0ehNOUk'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/1kDlSODlK4hKnMi0ehNOUk',
+      'id': '1kDlSODlK4hKnMi0ehNOUk',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Libros de salvación (feat. Hablando en Plata Squad)',
+      'popularity': 18,
+      'preview_url': 'https://p.scdn.co/mp3-preview/ac039ca5005ac862d41606babb779137ba4d23e4?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 10,
+      'type': 'track',
+      'uri': 'spotify:track:1kDlSODlK4hKnMi0ehNOUk'
+    },
+    {
+      'album': {
+        'album_type': 'album',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+            },
+            'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+            'id': '5t9ChGEQOzEA3gxWtXEw48',
+            'name': 'Elphomega',
+            'type': 'artist',
+            'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/2Ppv8YROLkQ2IcmjMCytS0'
+        },
+        'href': 'https://api.spotify.com/v1/albums/2Ppv8YROLkQ2IcmjMCytS0',
+        'id': '2Ppv8YROLkQ2IcmjMCytS0',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b273a7810ebe026261b68cb194c8',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e02a7810ebe026261b68cb194c8',
+            'width': 300
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d00004851a7810ebe026261b68cb194c8',
+            'width': 64
+          }
+        ],
+        'name': 'El testimonio Libra',
+        'release_date': '2007-04-17',
+        'release_date_precision': 'day',
+        'total_tracks': 18,
+        'type': 'album',
+        'uri': 'spotify:album:2Ppv8YROLkQ2IcmjMCytS0'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/4QxHdQXtGwHUMaEPxPljuE'
+          },
+          'href': 'https://api.spotify.com/v1/artists/4QxHdQXtGwHUMaEPxPljuE',
+          'id': '4QxHdQXtGwHUMaEPxPljuE',
+          'name': 'Capaz',
+          'type': 'artist',
+          'uri': 'spotify:artist:4QxHdQXtGwHUMaEPxPljuE'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 185880,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'ES6920600619'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/4smVtTzSSMb8H6fxrdZwzw'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/4smVtTzSSMb8H6fxrdZwzw',
+      'id': '4smVtTzSSMb8H6fxrdZwzw',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Nada mejor (feat. Capaz) - Illpack 3D',
+      'popularity': 18,
+      'preview_url': 'https://p.scdn.co/mp3-preview/8e3c405a07d9b4323fe16725719944fd3fb8fa7a?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 16,
+      'type': 'track',
+      'uri': 'spotify:track:4smVtTzSSMb8H6fxrdZwzw'
+    },
+    {
+      'album': {
+        'album_type': 'album',
+        'artists': [
+          {
+            'external_urls': {
+              'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+            },
+            'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+            'id': '5t9ChGEQOzEA3gxWtXEw48',
+            'name': 'Elphomega',
+            'type': 'artist',
+            'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+          }
+        ],
+        'external_urls': {
+          'spotify': 'https://open.spotify.com/album/6POz0ARKeOTTtCME6K1JaW'
+        },
+        'href': 'https://api.spotify.com/v1/albums/6POz0ARKeOTTtCME6K1JaW',
+        'id': '6POz0ARKeOTTtCME6K1JaW',
+        'images': [
+          {
+            'height': 640,
+            'url': 'https://i.scdn.co/image/ab67616d0000b273dd91ecd300ad00af9b21e6a9',
+            'width': 640
+          },
+          {
+            'height': 300,
+            'url': 'https://i.scdn.co/image/ab67616d00001e02dd91ecd300ad00af9b21e6a9',
+            'width': 300
+          },
+          {
+            'height': 64,
+            'url': 'https://i.scdn.co/image/ab67616d00004851dd91ecd300ad00af9b21e6a9',
+            'width': 64
+          }
+        ],
+        'name': 'Homogeddon',
+        'release_date': '2005-04-18',
+        'release_date_precision': 'day',
+        'total_tracks': 16,
+        'type': 'album',
+        'uri': 'spotify:album:6POz0ARKeOTTtCME6K1JaW'
+      },
+      'artists': [
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/5t9ChGEQOzEA3gxWtXEw48'
+          },
+          'href': 'https://api.spotify.com/v1/artists/5t9ChGEQOzEA3gxWtXEw48',
+          'id': '5t9ChGEQOzEA3gxWtXEw48',
+          'name': 'Elphomega',
+          'type': 'artist',
+          'uri': 'spotify:artist:5t9ChGEQOzEA3gxWtXEw48'
+        },
+        {
+          'external_urls': {
+            'spotify': 'https://open.spotify.com/artist/0vk9YH4UXFiK1HrzAthCRm'
+          },
+          'href': 'https://api.spotify.com/v1/artists/0vk9YH4UXFiK1HrzAthCRm',
+          'id': '0vk9YH4UXFiK1HrzAthCRm',
+          'name': 'Sicario',
+          'type': 'artist',
+          'uri': 'spotify:artist:0vk9YH4UXFiK1HrzAthCRm'
+        }
+      ],
+      'disc_number': 1,
+      'duration_ms': 199093,
+      'explicit': False,
+      'external_ids': {
+        'isrc': 'ES6920400214'
+      },
+      'external_urls': {
+        'spotify': 'https://open.spotify.com/track/4W96OobPEl2V5e8Q2czg3i'
+      },
+      'href': 'https://api.spotify.com/v1/tracks/4W96OobPEl2V5e8Q2czg3i',
+      'id': '4W96OobPEl2V5e8Q2czg3i',
+      'is_local': False,
+      'is_playable': True,
+      'name': 'Juerga lunar (feat. Sicario)',
+      'popularity': 17,
+      'preview_url': 'https://p.scdn.co/mp3-preview/67367cb1c336f7d94f1b9c308d482decac37a80f?cid=6af1b5af4ba3493a8bb4d6ffd46cc487',
+      'track_number': 3,
+      'type': 'track',
+      'uri': 'spotify:track:4W96OobPEl2V5e8Q2czg3i'
+    }
+  ]
+}
