@@ -1,0 +1,28 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div>
+      <h1 align="center">Track Recommender</h1>
+    </div>
+    <div>
+      <h2>Track: {{track['name']}}</h2>
+      <img src="{{track['album_img_url']}}" alt="Album Cover Image" />
+      <h3>Artist: {{track['artist']}}</h3>
+      <h3>Album: {{track['album']}}</h3>
+      <h3>Genre: {{track['genre']}}</h3>
+    </div>
+    <div>
+      <h3>Preview</h3>
+      <audio controls>
+        <source src="{{track['preview_url']}}" />
+      </audio>
+      <button>Next Recommendation</button>
+      <button>Generate New Recommendations</button>
+    </div>
+  </body>
+</html>
